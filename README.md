@@ -103,7 +103,7 @@ A practical Docker project created to understand container based application dep
 * Health Checks
 * Linux and curl
 
-[View Repository](https://github.com/itsme-aarjav/java)
+[View Repository](https://github.com/itsme-aarjav/devops-project-dashboard)
 
 ## My DevOps Workflow
 
