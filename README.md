@@ -1,118 +1,151 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=190&section=header&text=AARJAV%20JAIN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20Engineering&descSize=20&descAlignY=58" width="100%"/>
+
+</div>
+
+<div align="center">
+
 # Hi, I'm Aarjav Jain
 
 ### DevOps and Cloud Engineering
 
-B.Tech CSE (AI and ML) graduate focused on building practical skills in DevOps and Cloud Engineering.
+B.Tech CSE (AI and ML) graduate building practical experience in  
+**Cloud Infrastructure, CI/CD, Containers, Kubernetes, and Automation.**
 
-I enjoy working with cloud infrastructure, Linux, containers, CI/CD pipelines, Kubernetes, and deployment workflows. Most of my learning comes from building projects, breaking things, troubleshooting them, and getting them running again.
+I learn by building things, troubleshooting them, breaking them, and fixing them again.
 
-## Technical Skills
+</div>
 
-* **AWS:** EC2, VPC, IAM, S3, RDS, DynamoDB, Lambda, CloudFormation, CloudWatch, CloudFront, Route 53, EBS, KMS, Auto Scaling, Load Balancer
-* **CI/CD:** Jenkins, Declarative Pipeline, Jenkinsfile, GitHub Webhooks, Pipeline as Code, Jenkins Agents, Credentials, Parameters
-* **Containers:** Docker, Docker Compose, Dockerfile, Docker Hub, Multi Stage Builds, Container Health Checks
-* **Code Quality and Security:** SonarQube, SonarQube Scanner, Quality Gates, Trivy, Container Vulnerability Scanning
-* **Kubernetes:** Kubernetes, Minikube, kubectl, Helm, Deployments, ReplicaSets, StatefulSets, Services, ClusterIP, Ingress, ConfigMaps, Secrets, HPA, PVC, Metrics Server, Probes, Rollouts
-* **Linux and Networking:** Linux, Ubuntu, Bash, Nginx, TCP/IP, DNS, CIDR, Subnets, Routing, Reverse Proxy
-* **Tools:** Git, GitHub, Jira, Python
+---
 
-## Featured Projects
+## About Me
 
-### Full Stack ChatApp | End to End DevOps and Kubernetes
+I am focused on building a career in **DevOps and Cloud Engineering**.
 
-This is my latest and most complete DevOps project. I took a full stack real time chat application and worked on the containerization, CI/CD pipeline, security checks, Kubernetes deployment, scaling, storage, and recovery side of the project.
+My hands-on work includes AWS infrastructure, Linux administration, Docker, Jenkins, GitHub Actions, Kubernetes, Helm, SonarQube, Trivy, Nginx, and application deployment.
 
-**Application technologies**
+My recent projects have helped me connect these tools into complete workflows instead of learning them in isolation.
 
-* React
-* Vite
-* Node.js
-* Express.js
-* Socket.IO
-* MongoDB
+### What I work with
 
-**DevOps and infrastructure technologies**
+- AWS cloud infrastructure and networking
+- Linux and Bash automation
+- Docker and containerization
+- Jenkins and GitHub Actions
+- CI/CD pipelines
+- SonarQube and Trivy
+- Kubernetes and Helm
+- Nginx and application routing
+- Kubernetes storage and autoscaling
+- Deployment troubleshooting and rollback
 
-* Git and GitHub
-* Jenkins
-* SonarQube
-* Trivy
-* Docker
-* Docker Hub
-* Kubernetes
-* Minikube
-* kubectl
-* Helm
-* Nginx
-* AWS EC2
+### Currently learning
 
-**What I implemented**
+**Terraform and Infrastructure as Code**
 
-* GitHub Webhook triggers the Jenkins pipeline automatically
-* Jenkins runs frontend linting and SonarQube analysis
-* Docker images are built for the frontend and backend using multi stage Dockerfiles
-* Trivy scans the images for HIGH and CRITICAL vulnerabilities before they are pushed
-* Versioned images are pushed to Docker Hub
-* Helm is used to deploy the application to Kubernetes
-* Frontend and backend run as Kubernetes Deployments
-* MongoDB runs as a StatefulSet with persistent storage using PVC
-* Nginx Ingress and host Nginx handle application traffic and API or Socket.IO routing
-* Readiness and liveness probes are used for health checks
-* CPU requests and limits are configured for workloads
-* HPA and Metrics Server are used for autoscaling
-* Kubernetes Secrets and Jenkins credentials are used to keep sensitive values out of Git
-* Helm release history and rollback were tested using a failed deployment scenario
-* Deployment health is checked using kubectl rollout status and cluster resource checks
+---
 
-[View Repository](https://github.com/itsme-aarjav/full-stack_chatApp)
+## Connect With Me
 
-### POKÉVAULT LEGENDS | AWS 3 Tier Cloud Deployment
+<div align="center">
 
-A hands on AWS cloud infrastructure project where I worked on deploying and testing a 3 tier application setup.
+<a href="https://www.linkedin.com/in/aarjav-jain-cloud/">
+<img src="https://img.shields.io/badge/LinkedIn-Aarjav%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Technologies used**
+<a href="https://github.com/itsme-aarjav">
+<img src="https://img.shields.io/badge/GitHub-itsme--aarjav-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-* AWS EC2
-* VPC
-* Public and Private Subnets
-* Route Tables
-* Internet Gateway
-* NAT Gateway
-* Security Groups
-* Application Load Balancer
-* Target Groups
-* Health Checks
-* Ubuntu Linux
-* Git and GitHub
+<a href="mailto:aarjav24122002@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[View Repository](https://github.com/itsme-aarjav/pokevault-legends)
+</div>
 
-### DevOps Project Dashboard | Docker Containerization
+---
 
-A practical Docker project created to understand container based application deployment and day to day container management.
+## Tech Stack
 
-**Technologies used**
+### Cloud
 
-* Docker
-* Dockerfile
-* Docker Hub
-* Environment Variables
-* Port Mapping
-* Container Logs
-* Container Lifecycle Management
-* Health Checks
-* Linux and curl
+<div align="center">
 
-[View Repository](https://github.com/itsme-aarjav/devops-project-dashboard)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+
+</div>
+
+### DevOps and CI/CD
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+
+</div>
+
+### Code Quality and Security
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+
+</div>
+
+### Kubernetes
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Minikube-94399E?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ingress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/HPA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/PVC-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</div>
+
+### Systems and Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+</div>
+
+---
 
 ## My DevOps Workflow
+
+<div align="center">
 
 ```text
 GitHub
    ↓
-Jenkins
+Jenkins / GitHub Actions
    ↓
-Lint and SonarQube
+Lint
+   ↓
+SonarQube
    ↓
 Docker Build
    ↓
@@ -124,10 +157,8 @@ Helm
    ↓
 Kubernetes
    ↓
-Verification, Scaling, Persistence and Rollback
-```
-
-## Connect
-
-* [LinkedIn](https://www.linkedin.com/in/aarjav-jain-60b2762a5/)
-* [GitHub](https://github.com/itsme-aarjav)
+Deployment Verification
+   ↓
+Scaling + Persistence
+   ↓
+Rollback / Recovery
