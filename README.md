@@ -1,19 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a5f&height=190&section=header&text=AARJAV%20JAIN&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20Engineering&descSize=20&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:16324F,100:25638A&height=210&section=header&text=AARJAV%20JAIN&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20Engineering&descAlignY=57&descSize=20" width="100%"/>
 
-</div>
+### Building, deploying, breaking, and fixing things with DevOps.
 
-<div align="center">
-
-# Hi, I'm Aarjav Jain
-
-### DevOps and Cloud Engineering
-
-B.Tech CSE (AI and ML) graduate building practical experience in  
-**Cloud Infrastructure, CI/CD, Containers, Kubernetes, and Automation.**
-
-I learn by building things, troubleshooting them, breaking them, and fixing them again.
+<p>
+  <a href="https://www.linkedin.com/in/aarjav-jain-cloud/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aarjav24122002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/itsme-aarjav"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -21,116 +16,59 @@ I learn by building things, troubleshooting them, breaking them, and fixing them
 
 ## About Me
 
-I am focused on building a career in **DevOps and Cloud Engineering**.
+I am a B.Tech CSE (AI and ML) graduate focused on **DevOps and Cloud Engineering**.
 
-My hands-on work includes AWS infrastructure, Linux administration, Docker, Jenkins, GitHub Actions, Kubernetes, Helm, SonarQube, Trivy, Nginx, and application deployment.
+Most of my learning has come from hands-on work: setting up AWS infrastructure, working with Linux, building Docker images, creating CI/CD pipelines, deploying workloads on Kubernetes, and troubleshooting things when they did not work the first time.
 
-My recent projects have helped me connect these tools into complete workflows instead of learning them in isolation.
-
-### What I work with
-
-- AWS cloud infrastructure and networking
-- Linux and Bash automation
-- Docker and containerization
-- Jenkins and GitHub Actions
-- CI/CD pipelines
-- SonarQube and Trivy
-- Kubernetes and Helm
-- Nginx and application routing
-- Kubernetes storage and autoscaling
-- Deployment troubleshooting and rollback
-
-### Currently learning
-
-**Terraform and Infrastructure as Code**
-
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aarjav-jain-cloud/">
-<img src="https://img.shields.io/badge/LinkedIn-Aarjav%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/itsme-aarjav">
-<img src="https://img.shields.io/badge/GitHub-itsme--aarjav-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:aarjav24122002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+Right now I am focused on **Infrastructure as Code with Terraform** and on taking the projects I have already built closer to real-world cloud workflows.
 
 ---
 
 ## Tech Stack
 
-### Cloud
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+### ☁️ Cloud
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=aws" height="42"/>
 
-</div>
+**AWS:** EC2, VPC, IAM, S3, RDS, DynamoDB, Lambda, CloudFormation, CloudWatch, CloudFront, Route 53, EBS, KMS, Auto Scaling, Load Balancers, NAT Gateway, VPC Endpoints, VPC Flow Logs, VPC Peering, Transit Gateway, Site-to-Site VPN
 
-### DevOps and CI/CD
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### ⚙️ DevOps
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=jenkins,docker,githubactions,github,git,linux,nginx" height="42"/>
 
-</div>
+Jenkins • GitHub Actions • Docker • Docker Compose • Docker Hub • Git • GitHub • Linux • Bash • Nginx • Jira
 
-### Code Quality and Security
+</td>
+</tr>
 
-<div align="center">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white"/>
+### ☸ Kubernetes
 
-</div>
+<img src="https://skillicons.dev/icons?i=kubernetes,helm" height="42"/>
 
-### Kubernetes
+Kubernetes • Minikube • kubectl • Helm • Deployments • StatefulSets • Services • Ingress • ConfigMaps • Secrets • HPA • Metrics Server • PVC • Probes • Rollouts • Taints
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Minikube-94399E?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ingress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/HPA-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/PVC-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+### 🔐 Quality & Security
 
-</div>
+<img src="https://skillicons.dev/icons?i=sonarqube" height="42"/>
 
-### Systems and Tools
+SonarQube • Quality Gates • Trivy • Container Vulnerability Scanning • SecurityContext • Non-root Containers • Capability Dropping • seccomp
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -138,27 +76,223 @@ My recent projects have helped me connect these tools into complete workflows in
 
 <div align="center">
 
-```text
-GitHub
-   ↓
-Jenkins / GitHub Actions
-   ↓
-Lint
-   ↓
-SonarQube
-   ↓
-Docker Build
-   ↓
-Trivy Scan
-   ↓
-Docker Hub
-   ↓
-Helm
-   ↓
-Kubernetes
-   ↓
-Deployment Verification
-   ↓
-Scaling + Persistence
-   ↓
-Rollback / Recovery
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1F2937&height=58&text=GITHUB%20%20→%20%20JENKINS%20%20→%20%20SONARQUBE%20%20→%20%20DOCKER%20%20→%20%20TRIVY%20%20→%20%20DOCKER%20HUB%20%20→%20%20HELM%20%20→%20%20KUBERNETES&fontSize=14&fontColor=FFFFFF" width="95%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Stage | What I worked with |
+| :--- | :--- |
+| **Source** | Git, GitHub, GitHub Webhooks |
+| **CI/CD** | Jenkins, Jenkinsfile, Declarative Pipeline, GitHub Actions |
+| **Quality** | SonarQube, Quality Gates |
+| **Security** | Trivy, HIGH/CRITICAL vulnerability scans |
+| **Build** | Docker, Docker Compose, Docker Hub |
+| **Deploy** | Helm, Kubernetes, Minikube, Nginx |
+| **Operate** | HPA, Metrics Server, PVC, Probes, Rollouts |
+| **Recover** | Troubleshooting, Helm rollback, pod recovery |
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Full-Stack ChatApp
+
+My latest and most complete DevOps project.
+
+**Application:** React, Vite, Node.js, Express.js, Socket.IO, MongoDB
+
+**DevOps:** Jenkins, GitHub Webhooks, SonarQube, Trivy, Docker, Docker Hub, Kubernetes, Minikube, Helm, Nginx, HPA, Metrics Server, PVC
+
+Worked on the DevOps side of the application, from automated builds and security checks to Kubernetes deployment, scaling, persistence, rollback, and troubleshooting.
+
+<a href="https://github.com/itsme-aarjav/full-stack_chatApp">
+<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ POKÉVAULT LEGENDS
+
+AWS 3-tier deployment project focused on cloud infrastructure and application operations.
+
+**Worked with:** EC2, VPC, public/private subnets, route tables, IGW, NAT Gateway, Security Groups, ALB, target groups, health checks, Docker, Docker Compose, Nginx, Ubuntu, Bash, MySQL
+
+<a href="https://github.com/itsme-aarjav/POKEVAULT-LEGENDS">
+<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🐳 DevOps Project Dashboard
+
+Docker-focused practice project covering image builds, containers, port mapping, environment variables, logs, shell access, lifecycle operations, and health checks.
+
+<a href="https://github.com/itsme-aarjav/devops-project-dashboard">
+<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 AWS Infrastructure Labs
+
+Hands-on AWS networking and infrastructure practice covering VPC, subnets, routing, IGW, NAT Gateway, VPC Endpoints, VPC Flow Logs, IAM, KMS, EBS, AMIs, Launch Templates, CloudFormation, VPC Peering, Transit Gateway, and VPN.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Learning Journey
+
+<div align="center">
+
+**Linux & Git**
+
+↓
+
+**AWS Infrastructure & Networking**
+
+↓
+
+**Docker & Containerization**
+
+↓
+
+**Jenkins & CI/CD**
+
+↓
+
+**SonarQube & Trivy**
+
+↓
+
+**Kubernetes & Helm**
+
+↓
+
+**Scaling, Storage & Security**
+
+↓
+
+**Terraform & Infrastructure as Code**
+
+</div>
+
+---
+
+## Certifications
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### IBM
+
+**Containers & Kubernetes Essentials**
+
+Sep 2026
+
+<a href="https://www.credly.com/badges/9e1e2c0e-d31d-4050-910f-7e097a7edf61">Verify</a>
+
+</td>
+<td width="33%" align="center">
+
+### IBM
+
+**Docker Essentials: A Developer Introduction**
+
+Sep 2026
+
+<a href="https://www.credly.com/badges/fcd754ba-0f77-4d4d-9c3b-14e34c3d5942">Verify</a>
+
+</td>
+<td width="33%" align="center">
+
+### Forage
+
+**Solutions Architecture Job Simulation**
+
+Aug 2026
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsme-aarjav&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="175"/>
+
+<img src="https://streak-stats.demolab.com?user=itsme-aarjav&theme=tokyonight&hide_border=true" height="175"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsme-aarjav&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" height="175"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsme-aarjav&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsme-aarjav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" width="95%"/>
+
+</div>
+
+---
+
+## What I am Working On
+
+**Terraform → AWS Infrastructure as Code**
+
+The next step is to take the AWS environments I have built manually and reproduce them through Terraform, then connect that knowledge with the Kubernetes and CI/CD work I have already completed.
+
+---
+
+<div align="center">
+
+### Build it. Deploy it. Break it. Fix it. Learn from it.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=itsme-aarjav&style=flat-square&color=2563EB&label=Profile+Views"/>
+
+</div>
