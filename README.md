@@ -14,6 +14,9 @@
   <a href="https://github.com/itsme-aarjav">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" alt="GitHub"/>
   </a>
+  <a href="https://portfolio.aarjav.site/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" height="20" alt="Portfolio Website"/>
+  </a>
 </p>
 
 </div>
@@ -99,18 +102,48 @@ SonarQube • Static Analysis • Quality Gates • Trivy Filesystem & Container
 </td>
 <td width="50%" valign="top">
 
-### 📊 Observability, AIOps & FinOps
+### 📊 Observability, Monitoring & FinOps
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="42" alt="Prometheus and Grafana logos"/>
 
 <p>
 <img src="https://img.shields.io/badge/Loki-Logs-F5A623?style=flat-square&logo=grafana&logoColor=white" height="24" alt="Loki logo"/>
 <img src="https://img.shields.io/badge/OpenCost-FinOps-2D6A4F?style=flat-square" height="24" alt="OpenCost"/>
-<img src="https://img.shields.io/badge/Amazon_Bedrock-AI_Analysis-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="24" alt="Amazon Bedrock"/>
-<img src="https://img.shields.io/badge/LangGraph-AI_Workflows-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="24" alt="LangGraph"/>
 </p>
 
-Prometheus • Alertmanager • Grafana • Loki • Alloy • OpenCost • Amazon CloudWatch • Amazon Bedrock (Nova Lite) • LangGraph • LangChain Core • Python • Boto3 • Pydantic • SQS FIFO • DynamoDB • Root Cause Analysis • AI Guardrails (validation, sanitization, policy checks) • Guardrails AI (learning) • Human-in-the-loop Approval • Kubernetes Monitoring • Troubleshooting
+Prometheus • Alertmanager • Grafana • Loki • Alloy • OpenCost • Amazon CloudWatch • Metrics & Logs • Dashboards • Alerting • Kubernetes Monitoring • Troubleshooting
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+### 🧠 AIOps, LLMs & Intelligent Incident Response
+
+<p>
+<img src="https://img.shields.io/badge/Amazon_Bedrock-Nova_Lite-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="25" alt="Amazon Bedrock Nova Lite"/>
+<img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="25" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain_Core-LLM_Integration-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="25" alt="LangChain Core"/>
+<img src="https://img.shields.io/badge/Python-AIOps_Agent-3776AB?style=flat-square&logo=python&logoColor=white" height="25" alt="Python"/>
+<img src="https://img.shields.io/badge/Pydantic-Structured_Validation-E92063?style=flat-square&logo=pydantic&logoColor=white" height="25" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/Boto3-AWS_SDK-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" height="25" alt="Boto3 AWS SDK"/>
+<img src="https://img.shields.io/badge/Amazon_SQS-FIFO_Alerts-D65F15?style=flat-square&logo=amazonsqs&logoColor=white" height="25" alt="Amazon SQS FIFO"/>
+<img src="https://img.shields.io/badge/Amazon_DynamoDB-Incident_Storage-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" height="25" alt="Amazon DynamoDB"/>
+<img src="https://img.shields.io/badge/Prometheus-Alerting-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="25" alt="Prometheus"/>
+</p>
+
+**AI & Orchestration:** Amazon Bedrock Converse API (Nova Lite) • LangGraph • LangChain Core • Python • Pydantic • Boto3
+
+**Incident Automation:** Prometheus / Alertmanager • SQS FIFO & DLQ • DynamoDB • Kubernetes Python Client • Root Cause Analysis (RCA) • GitOps Remediation
+
+**Safety & Human Control:** Evidence Sanitization • Structured Output Validation • Deterministic Policy Guardrails • AWS IAM Authentication • Human Approval CLI • GitHub PR Review
+
+**Currently Learning:** Guardrails AI framework (not a dependency of the flagship project)
+
+<a href="https://github.com/itsme-aarjav/autonomous-devsecops-platform">
+<img src="https://img.shields.io/badge/Explore_AIOps_Project-111827?style=flat-square&logo=github&logoColor=white" height="24" alt="Explore AIOps flagship project"/>
+</a>
 
 </td>
 </tr>
