@@ -32,8 +32,6 @@ I'm seeking **entry-level DevOps, Cloud, SRE, or Platform Engineering opportunit
 
 ---
 
----
-
 ## Tech Stack
 
 <table>
@@ -152,8 +150,6 @@ Prometheus • Alertmanager • Grafana • Loki • Alloy • OpenCost • Amaz
 
 ---
 
----
-
 ## Featured Projects
 
 <table>
@@ -230,8 +226,6 @@ Deployed a distributed voting application using **Terraform, AWS EKS, Docker, Ku
 
 </tr>
 </table>
-
----
 
 ---
 
@@ -346,8 +340,6 @@ I'm refining my cloud engineering portfolio around **incident response, reliable
 - **Observability & Reliability:** Prometheus, Alertmanager, Grafana, Loki, incident verification, rollback, and PostgreSQL backup/restore.
 
 My goal is to contribute as an **entry-level DevOps, Cloud, SRE, or Platform Engineer**, with clearly documented projects demonstrating how I build, verify, troubleshoot, and safely operate cloud systems.
-
----
 
 ---
 
