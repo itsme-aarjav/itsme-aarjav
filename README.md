@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:16324F,100:25638A&height=210&section=header&text=AARJAV%20JAIN&fontSize=48&fontColor=FFFFFF&fontFamily=Roboto&fontAlignY=35&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20%7C%20DevSecOps&descAlignY=57&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:16324F,100:25638A&height=210&section=header&text=AARJAV%20JAIN&fontSize=48&fontColor=FFFFFF&fontFamily=Roboto&fontAlignY=35&animation=fadeIn&desc=DevOps%20%7C%20Cloud%20%7C%20AIOps%20%7C%20DevSecOps&descAlignY=57&descSize=18" width="100%"/>
 
-### Building, deploying, breaking, and fixing things with DevOps.
+### Building cloud platforms, investigating incidents, and delivering safer fixes.
 
 <p>
   <a href="https://www.linkedin.com/in/aarjav-jain-cloud/">
@@ -22,11 +22,15 @@
 
 ## About Me
 
-I'm a **B.Tech Computer Science & Engineering (AI & ML) graduate focused on DevOps and Cloud Engineering**. I build hands-on projects using AWS, Terraform, Docker, Kubernetes, CI/CD, and GitOps, with an emphasis on automating infrastructure and making deployment workflows repeatable.
+I'm a **B.Tech Computer Science & Engineering (AI & ML) graduate focused on DevOps, Cloud, SRE, and AIOps**. I build hands-on AWS platforms with Terraform, Kubernetes, Docker, CI/CD, and GitOps, focusing on reliable deployments, security, and practical incident response.
 
-Across projects including **PokéVault Legends, Votex, and Full-Stack ChatApp**, I've worked on infrastructure provisioning, containerization, automated build-and-release pipelines, Kubernetes deployments, security scanning, and monitoring. These projects help me practice how the pieces of a delivery workflow fit together—from source control and infrastructure to deployment, troubleshooting, and operational visibility.
+My flagship **Autonomous DevSecOps & Cloud Operations Platform** connects Prometheus and Alertmanager to an AWS-based AIOps assistant using **Python, LangGraph, Amazon Bedrock Nova Lite, SQS, and DynamoDB**. I verified a real **OOMKilled incident on Amazon EKS**, an AI-generated root cause analysis, an authenticated human approval, and a merged GitOps remediation pull request. The live demo infrastructure was intentionally decommissioned after testing; the code and proof remain on GitHub.
 
-I'm looking to grow as a DevOps / Cloud Engineer by contributing to real engineering teams, strengthening automation and reliability, and continuously improving through hands-on problem-solving and clear technical documentation.
+I've also built **PokéVault Legends** (cloud-native e-commerce, AWS EKS and GitOps) and **Votex** (distributed microservices and Jenkins CI/CD). During my DevOps & Cloud internship at **Zetheta Algorithms**, I worked on CI/CD documentation, AWS disaster recovery analysis, Kubernetes security reviews, and FinOps recommendations.
+
+I'm seeking **entry-level DevOps, Cloud, SRE, or Platform Engineering opportunities**, and I'm open to relocation.
+
+---
 
 ---
 
@@ -40,7 +44,7 @@ I'm looking to grow as a DevOps / Cloud Engineer by contributing to real enginee
 
 <img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS logo"/>
 
-**AWS:** EC2 • VPC • IAM • S3 • ECR • RDS • DynamoDB • ElastiCache • EBS • CloudWatch • CloudFront • Route 53 • KMS • WAFv2 • Load Balancers • Auto Scaling • NAT Gateway • VPC Endpoints • VPC Flow Logs • VPC Peering • Transit Gateway • Site-to-Site VPN • Amazon EKS / EKS Auto Mode
+**AWS:** EC2 • VPC • IAM • S3 • ECR • RDS • DynamoDB • SQS FIFO • Amazon Bedrock • Secrets Manager • ElastiCache • EBS • CloudWatch • CloudFront • Route 53 • KMS • WAFv2 • Load Balancers • Auto Scaling • NAT Gateway • VPC Endpoints • VPC Flow Logs • VPC Peering • Transit Gateway • Site-to-Site VPN • Amazon EKS / EKS Auto Mode
 
 </td>
 <td width="50%" valign="top">
@@ -76,7 +80,7 @@ Argo CD • Argo Rollouts • GitOps • Canary Releases • Helm-based Deployme
 
 <img src="https://skillicons.dev/icons?i=terraform,bash,linux" height="42" alt="Terraform, Bash and Linux logos"/>
 
-Terraform • AWS Provider • Variables • tfvars • Outputs • Locals • Functions • Modules • count • for_each • depends_on • Conditional Expressions • Lifecycle Rules • Import • State Management • Remote Backend • Workspaces • Provisioners • Environment-specific Infrastructure • Bash Automation
+Terraform • AWS Provider • Variables • tfvars • Outputs • Locals • Functions • Modules • count • for_each • depends_on • Conditional Expressions • Lifecycle Rules • Import • State Management • S3 Remote Backend • Workspaces • Provisioners • Ansible Backup Runbooks • Bash Automation
 
 </td>
 </tr>
@@ -97,16 +101,18 @@ SonarQube • Static Analysis • Quality Gates • Trivy Filesystem & Container
 </td>
 <td width="50%" valign="top">
 
-### 📊 Observability, Monitoring & FinOps
+### 📊 Observability, AIOps & FinOps
 
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="42" alt="Prometheus and Grafana logos"/>
 
 <p>
 <img src="https://img.shields.io/badge/Loki-Logs-F5A623?style=flat-square&logo=grafana&logoColor=white" height="24" alt="Loki logo"/>
 <img src="https://img.shields.io/badge/OpenCost-FinOps-2D6A4F?style=flat-square" height="24" alt="OpenCost"/>
+<img src="https://img.shields.io/badge/Amazon_Bedrock-AI_Analysis-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="24" alt="Amazon Bedrock"/>
+<img src="https://img.shields.io/badge/LangGraph-AI_Workflows-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="24" alt="LangGraph"/>
 </p>
 
-Prometheus • Grafana • Loki • Alloy • OpenCost • Amazon CloudWatch • Metrics Server • Dashboards • Logs • Health Checks • Alerting • Kubernetes Monitoring • Troubleshooting • Bash-based Backup & Rotation
+Prometheus • Alertmanager • Grafana • Loki • Alloy • OpenCost • Amazon CloudWatch • Amazon Bedrock (Nova Lite) • LangGraph • LangChain Core • Python • Boto3 • Pydantic • SQS FIFO • DynamoDB • Root Cause Analysis • AI Guardrails (validation, sanitization, policy checks) • Guardrails AI (learning) • Human-in-the-loop Approval • Kubernetes Monitoring • Troubleshooting
 
 </td>
 </tr>
@@ -119,7 +125,7 @@ Prometheus • Grafana • Loki • Alloy • OpenCost • Amazon CloudWatch •
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1F2937&height=58&text=GITHUB%20%20→%20%20JENKINS%20%20→%20%20SONARQUBE%20%20→%20%20DOCKER%20%20→%20%20TRIVY%20%20→%20%20DOCKER%20HUB%20%20→%20%20TERRAFORM%20%20→%20%20EKS%20%20→%20%20HELM%20%20→%20%20KUBERNETES&fontSize=14&fontColor=FFFFFF&fontFamily=Roboto" width="95%" alt="DevOps delivery workflow"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1F2937&height=58&text=GITHUB%20%20%E2%86%92%20%20CI%2FCD%20%20%E2%86%92%20%20DOCKER%20%20%E2%86%92%20%20TRIVY%20%20%E2%86%92%20%20ECR%20%20%E2%86%92%20%20ARGO%20CD%20%20%E2%86%92%20%20EKS%20%20%E2%86%92%20%20AIOPS&fontSize=17&fontColor=FFFFFF&fontFamily=Roboto" width="95%" alt="DevOps, GitOps and AIOps workflow"/>
 
 </div>
 
@@ -130,18 +136,21 @@ Prometheus • Grafana • Loki • Alloy • OpenCost • Amazon CloudWatch •
 | Stage | What I worked with |
 | :--- | :--- |
 | **Source** | Git, GitHub, GitHub Webhooks |
-| **CI/CD** | Jenkins, Jenkinsfile, Declarative Pipeline, GitHub Actions |
+| **CI/CD** | Jenkins, Declarative Pipelines, GitHub Actions |
 | **Quality** | SonarQube, Static Analysis, Quality Gates |
-| **Security** | Trivy, Filesystem Scanning, Container Vulnerability Scanning |
-| **Build** | Docker, Docker Compose, Docker Hub, Multi-stage Builds |
-| **Infrastructure** | Terraform, AWS Provider, VPC, EKS, Remote State |
-| **Deploy** | Helm, Kubernetes, Amazon EKS, Minikube, Nginx |
-| **Operate** | HPA, Metrics Server, PVC, Probes, Prometheus, Grafana |
-| **Recover** | Troubleshooting, Helm Rollback, Kubernetes Recovery, Health Checks |
+| **Security** | Trivy Scanning, SBOMs, Cosign, GitHub OIDC |
+| **Build** | Docker, Multi-stage Builds, Docker Hub, Amazon ECR |
+| **Infrastructure** | Terraform, AWS VPC, EKS, S3 Remote State |
+| **Deploy** | Helm, Kubernetes, Amazon EKS, Argo CD, Argo Rollouts |
+| **Observe** | Prometheus, Alertmanager, Grafana, Loki, OpenCost |
+| **AIOps** | SQS FIFO, LangGraph, Bedrock Nova Lite, DynamoDB RCA |
+| **Recover** | Human Approval CLI, GitHub PR, GitOps Sync, Rollback, Backup/Restore |
 
 </div>
 
-*Note: the workflow varies by repository. Votex and ChatApp use Jenkins-based CI/CD, while PokéVault uses GitHub Actions and Argo CD for GitOps delivery.*
+*Note: Each project uses its own workflow: Votex uses Jenkins and Helm; PokéVault uses GitHub Actions and Argo CD; the Autonomous AIOps Platform adds Bedrock-assisted investigation and human-approved GitOps remediation.*
+
+---
 
 ---
 
@@ -150,27 +159,31 @@ Prometheus • Grafana • Loki • Alloy • OpenCost • Amazon CloudWatch •
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🚀 VOTEX
+### Autonomous DevSecOps & Cloud Operations Platform
 
-**Cloud-Native Distributed Microservices on AWS EKS**
+**Flagship AIOps Project | Amazon EKS · Amazon Bedrock · LangGraph · Terraform · GitOps**
 
-A production-oriented microservices platform provisioned on AWS using **Terraform and Amazon EKS**.
+Built and live-verified an AWS-based platform that connects **Prometheus → Alertmanager → SQS FIFO → LangGraph → Bedrock Nova Lite → DynamoDB → Human Approval → GitHub PR → Argo CD**.
 
-**Architecture:** Python/Flask Vote Service • Node.js Result Service • .NET Worker • Redis • PostgreSQL
+**Real incident proof:** A controlled Kubernetes **OOMKilled (exit 137)** incident triggered Bedrock-based root cause analysis and a policy-checked remediation proposal. After human approval, the merged [PR #2](https://github.com/itsme-aarjav/autonomous-devsecops-platform/pull/2) updated the canary memory request/limit from **64Mi/128Mi to 256Mi/512Mi**.
 
-**Infrastructure:** Terraform • AWS VPC • EKS • Managed Node Groups • EBS gp3 • AWS Load Balancer
+**Stack:** Python • LangGraph • LangChain Core • Pydantic • Amazon Bedrock • EKS • Terraform • GitHub Actions • Argo CD • Trivy • Prometheus • Grafana • SQS • DynamoDB • S3/KMS • Ansible
 
-**DevSecOps:** Jenkins • SonarQube • Trivy • Docker • Docker Hub • Helm • Kubernetes
+**Status:** Live tested on AWS; project-owned cloud resources decommissioned after the demo. Screenshots, terminal logs, code, and proof remain in the repository.
 
-**Operations:** Prometheus • Grafana • HPA • PDB • Health Probes • Rolling Updates • Rollback
-
-<a href="https://github.com/itsme-aarjav/votex">
-<img src="https://img.shields.io/badge/View_Project-111827?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/itsme-aarjav/autonomous-devsecops-platform">
+<img src="https://img.shields.io/badge/View_Flagship_Project-111827?style=flat-square&logo=github&logoColor=white" alt="Autonomous AIOps project"/>
+</a>
+<a href="https://github.com/itsme-aarjav/autonomous-devsecops-platform/tree/main/proof">
+<img src="https://img.shields.io/badge/View_Live_Proof-2563EB?style=flat-square&logo=github&logoColor=white" alt="AIOps live verification evidence"/>
 </a>
 
 </td>
+
+</tr>
+<tr>
 
 <td width="50%" valign="top">
 
@@ -178,64 +191,47 @@ A production-oriented microservices platform provisioned on AWS using **Terrafor
 
 **Cloud-Native E-Commerce & GitOps Platform**
 
-A cloud-native e-commerce platform using AWS EKS Auto Mode, Terraform-managed infrastructure, GitHub Actions CI/CD, and Argo CD GitOps delivery.
+Built a cloud-native e-commerce platform with **Terraform-managed AWS infrastructure, EKS Auto Mode, GitHub Actions, and Argo CD**.
 
-**Worked with:** Terraform • AWS VPC • EKS Auto Mode • ECR • RDS MySQL • ElastiCache Redis • Route 53 • CloudFront • S3 • WAFv2 • GitHub OIDC • GitHub Actions • Argo CD • Argo Rollouts • Trivy • SBOM • Cosign • Prometheus • Grafana • Loki • OpenCost
+**Infrastructure:** VPC • EKS • ECR • RDS MySQL • ElastiCache Redis • CloudFront • S3 • WAFv2
+
+**DevSecOps & GitOps:** Trivy • Syft/CycloneDX SBOM • Cosign • Argo Rollouts canary releases • GitHub OIDC
+
+**Operations:** Prometheus • Grafana • Loki/Alloy • OpenCost • automated infrastructure teardown
 
 <a href="https://github.com/itsme-aarjav/POKEVAULT-LEGENDS">
-<img src="https://img.shields.io/badge/View_Project-111827?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-111827?style=flat-square&logo=github&logoColor=white" alt="PokéVault Legends GitHub repo"/>
 </a>
 <a href="https://aarjav.site">
-<img src="https://img.shields.io/badge/Live_Storefront-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏗️ AWS Infrastructure Automation
-
-**Terraform Multi-Environment Project**
-
-AWS infrastructure provisioned through Terraform using separate **Development, Staging, and Production** environments.
-
-**Worked with:** Terraform • AWS Provider • EC2 • S3 • DynamoDB • Security Groups • User Data • Terraform Workspaces • Environment-specific tfvars • State Management
-
-The project demonstrates how infrastructure can be managed consistently across multiple environments using Infrastructure as Code.
-
-<a href="https://github.com/itsme-aarjav/terra-multi-envirnment-project">
-<img src="https://img.shields.io/badge/View_Project-111827?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Storefront-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="PokéVault storefront"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 💬 Full-Stack ChatApp
+### 🚀 VOTEX
 
-**DevOps & Kubernetes Deployment Project**
+**Cloud-Native Distributed Microservices on AWS EKS**
 
-A real-time chat application used to implement and practice an end-to-end DevOps workflow.
+Deployed a distributed voting application using **Terraform, AWS EKS, Docker, Kubernetes, Helm, and Jenkins**.
 
-**Application:** React • Vite • Node.js • Express.js • Socket.IO • MongoDB
+**Architecture:** Python/Flask voting API • Redis queue • .NET worker • PostgreSQL on EBS • Node.js/Socket.IO results
 
-**DevOps:** GitHub Webhooks • Jenkins • SonarQube • Trivy • Docker • Docker Hub • Kubernetes • Minikube • Helm • Nginx • HPA • Metrics Server • PVC • Secrets • Probes • Rollback
+**CI/CD & Security:** Jenkins pipeline • SonarQube quality gates • Trivy scans • Docker image publishing • Helm deployment
 
-Focused on the DevOps side of the project including CI/CD automation, security scanning, containerization, Kubernetes deployment, scaling, persistence, and troubleshooting.
+**Reliability:** HPA • PDB • health probes • rolling updates • Prometheus/Grafana monitoring • rollback checks
 
-<a href="https://github.com/itsme-aarjav/full-stack-chatApp">
-<img src="https://img.shields.io/badge/View_Project-111827?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/itsme-aarjav/votex">
+<img src="https://img.shields.io/badge/View_Project-111827?style=flat-square&logo=github&logoColor=white" alt="Votex GitHub repo"/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
+
+---
 
 ---
 
@@ -249,7 +245,7 @@ Focused on the DevOps side of the project including CI/CD automation, security s
 
 <br>
 
-My DevSecOps workflow integrates security and quality checks directly into the CI/CD pipeline.
+My DevSecOps workflow integrates security and quality checks into CI/CD, while the AIOps project adds policy-gated, human-reviewed incident remediation.
 
 | Area | Tools / Practices |
 | :--- | :--- |
@@ -261,6 +257,7 @@ My DevSecOps workflow integrates security and quality checks directly into the C
 | **Container Hardening** | Capability Dropping, seccomp, allowPrivilegeEscalation |
 | **Infrastructure** | Terraform, AWS IAM, Security Groups |
 | **Deployment** | Helm, Kubernetes, Amazon EKS, Argo CD, Argo Rollouts |
+| **AI-Assisted Operations** | Bedrock RCA, sanitized evidence, Pydantic validation, deterministic remediation policy, operator approval, GitHub PR review |
 
 ---
 
@@ -336,19 +333,21 @@ Aug 2026
 
 ## What I am Working On
 
-### Building Production-Ready DevOps Workflows
+### Building Reliable DevOps, Cloud & AIOps Workflows
 
-I'm continuing to refine my DevOps and Cloud Engineering projects, focusing on reliable infrastructure, automated delivery, security, and operations.
+I'm refining my cloud engineering portfolio around **incident response, reliable Kubernetes delivery, infrastructure automation, security, and practical operational evidence**.
 
 #### Current Focus Areas
 
-- **Infrastructure as Code:** Terraform and AWS infrastructure design.
-- **CI/CD & GitOps:** Jenkins, GitHub Actions, Argo CD, and progressive delivery with Argo Rollouts across different projects.
-- **DevSecOps:** Code quality, vulnerability scanning, software bills of materials (SBOMs), and container image signing.
-- **Observability & FinOps:** Prometheus, Grafana, Loki, and OpenCost.
-- **Reliability:** Kubernetes health checks, deployment validation, rollback strategies, and troubleshooting.
+- **AIOps & SRE:** Amazon Bedrock, LangGraph, structured root cause analysis, alert processing, and human-approved remediation.
+- **Infrastructure as Code:** Terraform modules, remote state, and AWS infrastructure design.
+- **CI/CD & GitOps:** GitHub Actions, Jenkins, Argo CD, and Argo Rollouts across different projects.
+- **DevSecOps:** Quality gates, container security scanning, SBOMs, identity controls, and AI remediation guardrails.
+- **Observability & Reliability:** Prometheus, Alertmanager, Grafana, Loki, incident verification, rollback, and PostgreSQL backup/restore.
 
-My goal is to build projects that demonstrate repeatable deployments, practical security controls, operational visibility, and cost-aware infrastructure, supported by clear documentation of engineering decisions.
+My goal is to contribute as an **entry-level DevOps, Cloud, SRE, or Platform Engineer**, with clearly documented projects demonstrating how I build, verify, troubleshoot, and safely operate cloud systems.
+
+---
 
 ---
 
