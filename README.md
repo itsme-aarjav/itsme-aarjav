@@ -73,7 +73,7 @@ I've also built [Votex](https://github.com/itsme-aarjav/votex), with a nine-stag
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker"/>
 <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="30" alt="Kubernetes" title="Kubernetes"/>
-<img src="https://skillicons.dev/icons?i=helm&theme=dark" height="30" alt="Helm" title="Helm"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="27" alt="Helm official logo" title="Helm"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="30" alt="Argo CD / Argo Rollouts" title="Argo CD / Argo Rollouts"/>
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="Amazon EKS" title="Amazon EKS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure AKS" title="Azure AKS"/>
@@ -126,12 +126,24 @@ I've also built [Votex](https://github.com/itsme-aarjav/votex), with a nine-stag
 <h3>Agentic AI & Incident Response</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="Amazon Bedrock / Boto3" title="Amazon Bedrock / Boto3"/>
-<img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" height="26" alt="LangGraph" title="LangGraph"/>
-<img src="https://img.shields.io/badge/LangChain-Core-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26" alt="LangChain" title="LangChain"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-light.svg"/>
+<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-light.svg" height="29" alt="LangGraph official logo" title="LangGraph"/>
+</picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-light.svg"/>
+<img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-light.svg" height="29" alt="LangChain official logo" title="LangChain"/>
+</picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
 <img src="https://avatars.githubusercontent.com/u/110818415?v=4" height="30" alt="Pydantic" title="Pydantic"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure AI Foundry / AI Search" title="Azure AI Foundry / AI Search"/>
-<img src="https://img.shields.io/badge/MCP-Tools-334155?style=flat-square&logo=modelcontextprotocol&logoColor=white" height="26" alt="Model Context Protocol" title="Model Context Protocol"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/docs/main/logo/dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/docs/main/logo/light.svg"/>
+<img src="https://raw.githubusercontent.com/modelcontextprotocol/docs/main/logo/light.svg" height="25" alt="Model Context Protocol official logo" title="Model Context Protocol"/>
+</picture>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus Alerting" title="Prometheus Alerting"/>
 </p>
 <p><strong>AWS AIOps:</strong> Amazon Bedrock Converse API (Nova Lite), LangGraph, LangChain Core, Python, Pydantic, Boto3, Prometheus / Alertmanager, SQS FIFO, DynamoDB, deterministic policies and human-approved GitOps remediation.</p>
@@ -179,7 +191,11 @@ Four evidence-backed cloud projects. **Click an image to open its full-size arch
 <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="30" alt="Kubernetes" title="Kubernetes"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="30" alt="Terraform" title="Terraform"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
-<img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" height="26" alt="LangGraph" title="LangGraph"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-light.svg"/>
+<img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/.github/images/logo-light.svg" height="29" alt="LangGraph official logo" title="LangGraph"/>
+</picture>
 </p>
 <p>Prometheus alerts drive AI-assisted investigation, structured RCA, policy checks and <strong>human-approved GitOps remediation</strong>.</p>
 <p><strong>Verified:</strong> Real OOMKilled (exit 137) incident, Bedrock RCA and merged remediation pull request. AWS demo resources were decommissioned after evidence capture.</p>
@@ -202,7 +218,11 @@ Four evidence-backed cloud projects. **Click an image to open its full-size arch
 <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="30" alt="Kubernetes" title="Kubernetes"/>
 <img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="30" alt="GitLab" title="GitLab"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="30" alt="Argo CD" title="Argo CD"/>
-<img src="https://img.shields.io/badge/MCP-Tools-334155?style=flat-square&logo=modelcontextprotocol&logoColor=white" height="26" alt="Model Context Protocol" title="Model Context Protocol"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/docs/main/logo/dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/modelcontextprotocol/docs/main/logo/light.svg"/>
+<img src="https://raw.githubusercontent.com/modelcontextprotocol/docs/main/logo/light.svg" height="25" alt="Model Context Protocol official logo" title="Model Context Protocol"/>
+</picture>
 </p>
 <p>Azure AKS platform with security-gated GitLab delivery, GitOps and a <strong>runbook-grounded AI incident investigator</strong> using MCP and RAG.</p>
 <p><strong>Verified:</strong> 8/8 CI jobs passed, security policies, GitOps synchronization and AI investigation evidence. The AI agent is <strong>diagnose-only</strong>.</p>
@@ -225,7 +245,7 @@ Four evidence-backed cloud projects. **Click an image to open its full-size arch
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="AWS" title="AWS"/>
 <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="30" alt="Jenkins" title="Jenkins"/>
-<img src="https://skillicons.dev/icons?i=helm&theme=dark" height="30" alt="Helm" title="Helm"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" height="27" alt="Helm official logo" title="Helm"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" height="30" alt="OpenTelemetry" title="OpenTelemetry"/>
 <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="30" alt="Kubernetes" title="Kubernetes"/>
 </p>
