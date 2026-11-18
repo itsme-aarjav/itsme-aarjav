@@ -35,6 +35,16 @@ I've also built [Votex](https://github.com/itsme-aarjav/votex), with a nine-stag
 
 ---
 
+## Portfolio Website
+
+Explore my **DevOps, Cloud, DevSecOps & AIOps** work in a dedicated portfolio, alongside the projects and technical evidence shared here on GitHub.
+
+<a href="https://portfolio.aarjav.site/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit portfolio website"/>
+</a>
+
+---
+
 ## Tech Stack
 
 <sub>Tools used across different projects. Individual project workflows and verified evidence are linked below.</sub>
