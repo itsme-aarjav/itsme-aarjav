@@ -44,27 +44,50 @@ I've also built [Votex](https://github.com/itsme-aarjav/votex), with a nine-stag
 <td width="50%" valign="top">
 <h3>Cloud Platforms</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=aws" height="36" alt="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="36" alt="Microsoft Azure"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="Amazon Web Services" title="Amazon Web Services"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Microsoft Azure" title="Microsoft Azure"/>
 </p>
 <p><strong>AWS:</strong> EKS, EC2, VPC, IAM, S3, ECR, RDS, DynamoDB, SQS, Lambda, EventBridge, Bedrock, CloudWatch, X-Ray, KMS, Secrets Manager, Route 53, CloudFront, WAF, Load Balancers</p>
 <p><strong>Azure:</strong> AKS, ACR, Key Vault, Entra Workload Identity, AI Foundry, AI Search, Azure Storage</p>
 </td>
 <td width="50%" valign="top">
 <h3>CI/CD & Automation</h3>
-<p><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions,jenkins,linux,bash" height="36" alt="Git, GitHub, GitLab, GitHub Actions, Jenkins, Linux and Bash"/></p>
+<p>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="30" alt="git" title="git"/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="30" alt="github" title="github"/>
+<img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="30" alt="gitlab" title="gitlab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="30" alt="GitHub Actions" title="GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="30" alt="jenkins" title="jenkins"/>
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" height="30" alt="linux" title="linux"/>
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" height="30" alt="bash" title="bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="30" alt="nginx" title="nginx"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="30" alt="ansible" title="ansible"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="Docker Hub" title="Docker Hub"/>
+</p>
 <p>Git &amp; GitHub · GitLab CI/CD · GitHub Actions · Jenkins Declarative Pipelines · Linux · Bash · Nginx · Ansible · Docker Hub</p>
 </td>
 </tr>
 <tr>
 <td valign="top">
 <h3>Kubernetes & GitOps</h3>
-<p><img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" height="36" alt="Docker, Kubernetes and Helm"/></p>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="Docker" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="30" alt="Kubernetes" title="Kubernetes"/>
+<img src="https://skillicons.dev/icons?i=helm&theme=dark" height="30" alt="Helm" title="Helm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="30" alt="Argo CD / Argo Rollouts" title="Argo CD / Argo Rollouts"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="Amazon EKS" title="Amazon EKS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure AKS" title="Azure AKS"/>
+</p>
 <p>Docker · Amazon EKS / EKS Auto Mode · Azure AKS · Helm · Kustomize · Argo CD · Argo Rollouts · HPA · PDB · Health Probes · Ingress · Canary Releases · Rollbacks</p>
 </td>
 <td valign="top">
 <h3>Infrastructure as Code</h3>
-<p><img src="https://skillicons.dev/icons?i=terraform,ansible" height="36" alt="Terraform and Ansible"/></p>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="30" alt="Terraform" title="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="30" alt="Ansible" title="Ansible"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="AWS Terraform Provider" title="AWS Terraform Provider"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure Terraform Provider" title="Azure Terraform Provider"/>
+</p>
 <p>Terraform (AWS &amp; Azure Providers) · Modules · S3 / Azure Remote State · Locking · IAM / Workload Identity · Networking · Automated Deployment &amp; Teardown · Backup / Restore Runbooks</p>
 </td>
 </tr>
@@ -72,15 +95,29 @@ I've also built [Votex](https://github.com/itsme-aarjav/votex), with a nine-stag
 <td valign="top">
 <h3>DevSecOps & Supply Chain</h3>
 <p>
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" height="23" alt="Trivy"/>
-<img src="https://img.shields.io/badge/Semgrep-00D084?style=flat-square" height="23" alt="Semgrep"/>
-<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" height="23" alt="OWASP ZAP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" height="30" alt="SonarQube" title="SonarQube"/>
+<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" height="30" alt="Trivy" title="Trivy"/>
+<img src="https://avatars.githubusercontent.com/u/29760937?v=4" height="30" alt="Semgrep" title="Semgrep"/>
+<img src="https://avatars.githubusercontent.com/u/155815?v=4" height="30" alt="OWASP ZAP" title="OWASP ZAP"/>
+<img src="https://avatars.githubusercontent.com/u/16208487?v=4" height="30" alt="Syft / Anchore" title="Syft / Anchore"/>
+<img src="https://avatars.githubusercontent.com/u/29029855?v=4" height="30" alt="CycloneDX SBOM" title="CycloneDX SBOM"/>
+<img src="https://raw.githubusercontent.com/sigstore/community/main/artwork/cosign/icons/color/sigstore_cosign-icon-color.svg" height="30" alt="Sigstore Cosign" title="Sigstore Cosign"/>
+<img src="https://avatars.githubusercontent.com/u/68448710?v=4" height="30" alt="Kyverno" title="Kyverno"/>
 </p>
 <p>SonarQube · Trivy · Semgrep SAST · OWASP ZAP DAST · Syft / CycloneDX / SPDX SBOM · Cosign Image Signing · GitHub / GitLab OIDC · Kyverno · NetworkPolicies · Kubernetes Hardening</p>
 </td>
 <td valign="top">
 <h3>Observability & FinOps</h3>
-<p><img src="https://skillicons.dev/icons?i=prometheus,grafana" height="36" alt="Prometheus and Grafana"/></p>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus / Alertmanager" title="Prometheus / Alertmanager"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="30" alt="Grafana" title="Grafana"/>
+<img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo_and_name.png" height="30" alt="Grafana Loki" title="Grafana Loki"/>
+<img src="https://raw.githubusercontent.com/grafana/alloy/main/docs/sources/assets/logo_alloy_light.svg" height="30" alt="Grafana Alloy" title="Grafana Alloy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" height="30" alt="OpenTelemetry" title="OpenTelemetry"/>
+<img src="https://avatars.githubusercontent.com/u/105945214?v=4" height="30" alt="OpenCost" title="OpenCost"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" height="30" alt="Grafana k6" title="Grafana k6"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="AWS X-Ray / CloudWatch" title="AWS X-Ray / CloudWatch"/>
+</p>
 <p>Prometheus · Alertmanager · Grafana · Loki · Alloy · OpenTelemetry · AWS X-Ray · CloudWatch · OpenCost · Dashboards · Synthetic Health Checks · k6 &amp; Chaos Testing</p>
 </td>
 </tr>
@@ -88,10 +125,14 @@ I've also built [Votex](https://github.com/itsme-aarjav/votex), with a nine-stag
 <td colspan="2" valign="top">
 <h3>Agentic AI & Incident Response</h3>
 <p>
-<img src="https://img.shields.io/badge/Amazon_Bedrock-Nova_Lite-232F3E?style=flat-square" height="24" alt="Amazon Bedrock"/>
-<img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-1C3C3C?style=flat-square" height="24" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/Azure_AI_Foundry-Agentic_AIOps-0078D4?style=flat-square" height="24" alt="Azure AI Foundry"/>
-<img src="https://img.shields.io/badge/MCP-Read_Only_Tools-334155?style=flat-square" height="24" alt="Model Context Protocol"/>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="Amazon Bedrock / Boto3" title="Amazon Bedrock / Boto3"/>
+<img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" height="26" alt="LangGraph" title="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain-Core-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="26" alt="LangChain" title="LangChain"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
+<img src="https://avatars.githubusercontent.com/u/110818415?v=4" height="30" alt="Pydantic" title="Pydantic"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure AI Foundry / AI Search" title="Azure AI Foundry / AI Search"/>
+<img src="https://img.shields.io/badge/MCP-Tools-334155?style=flat-square&logo=modelcontextprotocol&logoColor=white" height="26" alt="Model Context Protocol" title="Model Context Protocol"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus Alerting" title="Prometheus Alerting"/>
 </p>
 <p><strong>AWS AIOps:</strong> Amazon Bedrock Converse API (Nova Lite), LangGraph, LangChain Core, Python, Pydantic, Boto3, Prometheus / Alertmanager, SQS FIFO, DynamoDB, deterministic policies and human-approved GitOps remediation.</p>
 <p><strong>Azure Agentic AIOps:</strong> Azure AI Foundry (GPT-5 mini), read-only Kubernetes &amp; Prometheus MCP tools, Azure AI Search RAG, runbook-grounded incident diagnosis. <strong>Diagnose-only; the Azure agent does not modify clusters.</strong></p>
@@ -133,6 +174,13 @@ Four evidence-backed cloud projects. **Click an image to open its full-size arch
 <h3 align="center">Autonomous DevSecOps Platform</h3>
 <p align="center"><strong>AWS AIOps · Flagship Project</strong></p>
 <p align="center"><code>EKS</code> <code>Bedrock</code> <code>LangGraph</code> <code>Terraform</code> <code>GitOps</code></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="AWS" title="AWS"/>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="30" alt="Kubernetes" title="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="30" alt="Terraform" title="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="30" alt="Python" title="Python"/>
+<img src="https://img.shields.io/badge/LangGraph-Agent_Workflows-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" height="26" alt="LangGraph" title="LangGraph"/>
+</p>
 <p>Prometheus alerts drive AI-assisted investigation, structured RCA, policy checks and <strong>human-approved GitOps remediation</strong>.</p>
 <p><strong>Verified:</strong> Real OOMKilled (exit 137) incident, Bedrock RCA and merged remediation pull request. AWS demo resources were decommissioned after evidence capture.</p>
 <p align="center">
@@ -149,6 +197,13 @@ Four evidence-backed cloud projects. **Click an image to open its full-size arch
 <h3 align="center">KubeSentry</h3>
 <p align="center"><strong>Azure DevSecOps · Agentic AIOps</strong></p>
 <p align="center"><code>AKS</code> <code>GitLab</code> <code>Argo CD</code> <code>AI Foundry</code> <code>MCP</code></p>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure" title="Azure"/>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="30" alt="Kubernetes" title="Kubernetes"/>
+<img src="https://skillicons.dev/icons?i=gitlab&theme=dark" height="30" alt="GitLab" title="GitLab"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="30" alt="Argo CD" title="Argo CD"/>
+<img src="https://img.shields.io/badge/MCP-Tools-334155?style=flat-square&logo=modelcontextprotocol&logoColor=white" height="26" alt="Model Context Protocol" title="Model Context Protocol"/>
+</p>
 <p>Azure AKS platform with security-gated GitLab delivery, GitOps and a <strong>runbook-grounded AI incident investigator</strong> using MCP and RAG.</p>
 <p><strong>Verified:</strong> 8/8 CI jobs passed, security policies, GitOps synchronization and AI investigation evidence. The AI agent is <strong>diagnose-only</strong>.</p>
 <p align="center">
@@ -167,6 +222,13 @@ Four evidence-backed cloud projects. **Click an image to open its full-size arch
 <h3 align="center">Votex</h3>
 <p align="center"><strong>AWS DevSecOps · Observability &amp; Resilience</strong></p>
 <p align="center"><code>EKS</code> <code>Jenkins</code> <code>Helm</code> <code>OpenTelemetry</code> <code>X-Ray</code></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="AWS" title="AWS"/>
+<img src="https://skillicons.dev/icons?i=jenkins&theme=dark" height="30" alt="Jenkins" title="Jenkins"/>
+<img src="https://skillicons.dev/icons?i=helm&theme=dark" height="30" alt="Helm" title="Helm"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opentelemetry/opentelemetry-original.svg" height="30" alt="OpenTelemetry" title="OpenTelemetry"/>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="30" alt="Kubernetes" title="Kubernetes"/>
+</p>
 <p>Distributed voting platform with a <strong>nine-stage Jenkins pipeline</strong>, container security, metrics, logs, traces and recovery exercises.</p>
 <p><strong>Verified:</strong> Jenkins Build #16, 903/903 k6 checks, chaos recovery and PostgreSQL restore. AWS demo infrastructure was intentionally decommissioned.</p>
 <p align="center">
@@ -183,6 +245,13 @@ Four evidence-backed cloud projects. **Click an image to open its full-size arch
 <h3 align="center">PokéVault Legends</h3>
 <p align="center"><strong>AWS Cloud-Native GitOps · FinOps</strong></p>
 <p align="center"><code>EKS Auto Mode</code> <code>Terraform</code> <code>Argo CD</code> <code>OpenCost</code></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="30" alt="AWS" title="AWS"/>
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" height="30" alt="Kubernetes" title="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="30" alt="Terraform" title="Terraform"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" height="30" alt="Argo CD" title="Argo CD"/>
+<img src="https://avatars.githubusercontent.com/u/105945214?v=4" height="30" alt="OpenCost" title="OpenCost"/>
+</p>
 <p>E-commerce platform demonstrating cloud-native infrastructure, GitOps, progressive canary delivery, supply-chain security and <strong>Kubernetes cost visibility</strong>.</p>
 <p><strong>Highlights:</strong> Argo Rollouts, Trivy, SBOM/Cosign, Prometheus, Loki and a real OpenCost dashboard capture.</p>
 <p align="center">
